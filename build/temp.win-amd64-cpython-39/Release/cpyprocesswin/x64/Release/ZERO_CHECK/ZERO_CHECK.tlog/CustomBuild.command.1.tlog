@@ -1,0 +1,10 @@
+^C:\USERS\AAHAN\PERSONAL\CPYPROCESS\BUILD\TEMP.WIN-AMD64-CPYTHON-39\RELEASE\CPYPROCESSWIN\CMAKEFILES\E4F9D0A626894FD6F6881B1CF18877B0\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/aahan/Personal/cpyprocess -BC:/Users/aahan/Personal/cpyprocess/build/temp.win-amd64-cpython-39/Release/cpyprocesswin --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/aahan/Personal/cpyprocess/build/temp.win-amd64-cpython-39/Release/cpyprocesswin/cpyprocesswin.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

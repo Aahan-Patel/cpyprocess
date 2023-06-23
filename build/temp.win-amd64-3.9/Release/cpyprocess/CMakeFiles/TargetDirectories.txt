@@ -1,0 +1,4 @@
+C:/Users/aahan/Personal/cpyprocess/build/temp.win-amd64-3.9/Release/cpyprocess/CMakeFiles/cpyprocess.dir
+C:/Users/aahan/Personal/cpyprocess/build/temp.win-amd64-3.9/Release/cpyprocess/CMakeFiles/ALL_BUILD.dir
+C:/Users/aahan/Personal/cpyprocess/build/temp.win-amd64-3.9/Release/cpyprocess/CMakeFiles/ZERO_CHECK.dir
+C:/Users/aahan/Personal/cpyprocess/build/temp.win-amd64-3.9/Release/cpyprocess/pybind11/CMakeFiles/ALL_BUILD.dir

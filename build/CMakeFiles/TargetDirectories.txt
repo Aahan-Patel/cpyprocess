@@ -1,0 +1,5 @@
+/root/Personal/cpyprocess/build/CMakeFiles/rebuild_cache.dir
+/root/Personal/cpyprocess/build/CMakeFiles/edit_cache.dir
+/root/Personal/cpyprocess/build/CMakeFiles/cpyprocess.dir
+/root/Personal/cpyprocess/build/pybind11/CMakeFiles/rebuild_cache.dir
+/root/Personal/cpyprocess/build/pybind11/CMakeFiles/edit_cache.dir
